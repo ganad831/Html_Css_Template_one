@@ -57,6 +57,7 @@ body {
     position: absolute;
     right: 0;
     display: none;
+    z-index: 1;
 }
 
 .header .links ul::before {
